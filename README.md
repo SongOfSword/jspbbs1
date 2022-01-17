@@ -1,2 +1,2 @@
-# jspbbs1
+# JspBBS
 java/jsp/bbs
